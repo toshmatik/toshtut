@@ -57,3 +57,5 @@ ALL DATA ON YOUR USB DRIVE WILL BE FORMATTED WITH THIS PROCESS!
 * Open the parition menu and choose folowing settings, hit Apply
 
 ![Format USB](https://raw.githubusercontent.com/toshmatik/toshtut/master/Resources/Pictures/Format_USB.png)
+
+* Now your USB drive should be named _USB_
