@@ -52,8 +52,8 @@ ALL DATA ON YOUR USB DRIVE WILL BE FORMATTED WITH THIS PROCESS!
 * Open _Disk Utility_
 * Choose your USB drive
 
-![USB Stick](Resources/Pictures/USB_Stick.png)
+![USB Stick](https://raw.githubusercontent.com/toshmatik/toshtut/master/Resources/Pictures/USB_Stick.png)
 
 * Open the parition menu and choose folowing settings, hit Apply
 
-![Format USB](Resources/Pictures/Format_USB.png)
+![Format USB](https://raw.githubusercontent.com/toshmatik/toshtut/master/Resources/Pictures/Format_USB.png)
