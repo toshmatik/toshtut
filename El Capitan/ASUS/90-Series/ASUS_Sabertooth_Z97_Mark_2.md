@@ -2,13 +2,12 @@
 
 ## Overview
 
-1. Build
-2. General
-3. Donwloading OS X (macOS)
-4. Installer USB
-5. Installing OS X (macOS)
-6. Post-Install
-
+1.  Build
+2.  General
+3.  Downloading OS X (macOS)
+4.  Installer USB
+5.  Installing OS X (macOS)
+6.  Post-Install
 
 ## 1. Build
 
@@ -30,11 +29,11 @@
 
 We need following things for a successful installation:
 
-* A Mac or a running Hackintosh
-* 2x USB drive (one at least 8GiB, preferably USB 2.0)
-* [Clover](https://clover-wiki.zetam.org/Home)
-* [Clover Configurator](http://mackie100projects.altervista.org)
-* OSX El Capitan 10.11.x
+*   A Mac or a running Hackintosh
+*   2x USB drive (one at least 8GiB, preferably USB 2.0)
+*   [Clover](https://clover-wiki.zetam.org/Home)
+*   [Clover Configurator](http://mackie100projects.altervista.org)
+*   OSX El Capitan 10.11.x
 
 ## 3. Downloading OS X (macOS)
 
@@ -48,14 +47,14 @@ I handle it exactly the same. You can download the Installer.dmg from the Mac Ap
 
 ALL DATA ON YOUR USB DRIVE WILL BE FORMATTED WITH THIS PROCESS!
 
-* Plug in your USB drive with a minimum of 8GiB of Storage
-* Open _Disk Utility_
-* Choose your USB drive
+*   Plug in your USB drive with a minimum of 8GiB of Storage
+*   Open _Disk Utility_
+*   Choose your USB drive
 
 ![USB Stick](https://raw.githubusercontent.com/toshmatik/toshtut/master/Resources/Pictures/USB_Stick.png)
 
-* Open the parition menu and choose folowing settings, hit Apply
+*   Open the parition menu and choose folowing settings, hit Apply
 
 ![Format USB](https://raw.githubusercontent.com/toshmatik/toshtut/master/Resources/Pictures/Format_USB.png)
 
-* Now your USB drive should be named _USB_
+*   Now your USB drive should be named _USB_
